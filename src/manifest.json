@@ -3,10 +3,10 @@
 	"name": "csv2web",
 	"short_name": "csv2web",
 	"author": "Jimmy Sawczuk",
-	"version": "0.0.1",
+	"version": "0.0.2",
 	"description": "Turns text/csv files into a viewable web page on your computer.",
 	"permissions": [
-		"*://*/",
+		"<all_urls>",
 		"webRequest",
 		"webRequestBlocking"
 	],
